@@ -1,0 +1,5 @@
+const {add ,sub ,div ,mul}= require('./ownmodule')
+console.log(add(2,2))
+console.log(sub(2,2))
+console.log(mul(2,2))
+console.log(div(2,2))
